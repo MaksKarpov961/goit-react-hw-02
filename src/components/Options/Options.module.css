@@ -1,0 +1,66 @@
+.button_wrapper{
+  display: flex;
+  gap: 5px;
+  margin-bottom: 20px;
+}
+
+.button_feedback{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.3;
+  letter-spacing: 0.05em;
+  color: black;
+  border-radius: 5px;
+  padding: 12px;
+  border: solid 1px rgb(83, 83, 83);
+  background-color: #dbdbdb;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+}
+
+.good{
+  background-color: #99ff7f;
+}
+
+.good:hover {
+  background-color: #59d33b;
+}
+
+.good:active {
+  background-color: #177200;
+}
+
+.neutral{
+  background-color: #dbdbdb;
+}
+
+.neutral:hover{
+  background-color: #b1b1b1;
+}
+
+.neutral:active {
+  background-color: #777676;
+}
+
+
+.bad{
+  background-color: #ff7878;
+}
+
+.bad:hover {
+  background-color: #da2929;
+}
+
+.bad:active {
+  background-color: #dbdbdb;
+}
+
+
+.reset{
+  background-color: #8b96ff;
+}
+
+.reset:hover {
+  background-color: #1b36cfb2;
+}

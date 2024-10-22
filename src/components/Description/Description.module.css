@@ -1,0 +1,19 @@
+.title{
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 1.3;
+  letter-spacing: 0.04em;
+  color: black;
+  margin-bottom: 20px;
+}
+
+
+.descr{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.6;
+  letter-spacing: 0.03em;
+  color: black;
+  margin-bottom: 24px;
+
+}
